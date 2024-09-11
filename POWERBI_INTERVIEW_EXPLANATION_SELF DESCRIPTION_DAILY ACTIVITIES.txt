@@ -1,0 +1,104 @@
+Explaining about a project?
+
+a) Explain about your customer, their business operation? 
+
+b) Explain about their analytical usage and operations [ decision support operation need]
+
+c) Explain about your project end-end operation [if you know]
+
+d) Your application and its functionality in the project [you must aware]
+
+e) Your responsibilities in the project
+
+Note: 
+
+A project follows one Life Cycle Approach 
+
+a) Requirements Gathering b) Analysis c) Design  d) Coding e) Testing f) Implementation g) Support
+
+
+
+
+DAILY ACTIVITIES IN TECHNICAL TEAM
+==========================
+Being an integral part of high paced technical environment, my role requires to analyse and build all types of reports and dashboards using Power BI. 
+
+Working on different types of report functionality documents provided through share point and other channels.
+
+Identify design alternatives and conduct technical feasibility.
+
+Develop proof of concepts for technical evaluation and early customer feedback.
+
+Suggest better way of presenting charts, graphs, tables with rich UI/UX.
+
+Working on a team to architect, develop, and deliver enterprise-scale, cloud data and analytics solutions
+
+Interact with clients to discuss best practices and strategy for modern big data analytics.
+
+Elicit requirements from onsite team and customer team.
+
+Using various DAX functions to create measures, calculated columns and tables.
+Used various filters and slicers based  on customer reuirements.
+Implemented drill down and drill through reports where required.
+Used different types of buttons and created book marks.
+Implemented row-level security for the specified reports.
+Used different types of tiles in the dash boards.
+Used appropriate modelling between various queries through single and bidirectional.
+Created scheduled refresh to update reports and dash boards regularly.
+
+Review User Stories and create software development tasks.
+
+Participate in daily project team huddles and attend daily calls with the onsite team and customer to understand business needs.
+
+Tested the result using various reporting principles.
+
+Updating the progress of development in JIRA.
+
+Conduct peer code reviews and external code reviews using Git and Visual Studio Online
+
+Work and manage different types of gateways.
+
+Worked on App Workspaces, Apps, and Content Packs.
+
+Restricting Sharing and Publishing & Export and Printing.
+
+
+
+Daily Activities:
+=================
+
+As soon as I enter into office I open my desktop/Laptop, connect to VPN for customer network and then see my emails for new assignments or change requests or any other kind of requests and meetings.
+I will work on the given documents.If already given we work on those documents.
+
+SometimesI work on fresh applications, sometimes on change requests, some times on Test defects and production issues. Even customer adhoc request answered on the fly.
+
+If the work is done, delivering the required documents to the customer through their required communication channel [Web portal/ versioning tool / email/ shared folder]
+
+========================================
+
+INTERVIEW SELF DESCRIPTION
+=====================
+
+HI,
+Good morning! I am Ajay, having 3+ years of experience in IT industry working with Data Insights and Analytics department using POWER BI. Earlier it was Datawarehouse and Business Intelligence. 
+
+I am working on POWER BI for the last 3 years.
+In my tenure I played two major roles.a)Module Lead b)Software Engineer.
+
+I am a Btech qualified candidate with 75% aggregation in academics and even I got good percentages in my earlier qualifications(specify if they are good with institution name).
+
+Worked with various other tools and technologies along with Power BI such as SSIS, Sqlserver, Azure and Versioning tool TFS. I have some knowledge on native Power BI scheduling and Sql Server Agent.
+
+My responsibilities are getting the documents such as Business, HLD,LLD, Report Functional, etc...through portals[Sharepoit/Team Foundation Server/FTP] or emails and understanding them to work on or for clarifications. Creating and manipulating reports and dashboards  based on the documents and Testing them with Data Validation rules.
+
+Used various Power Bi concepts such as filters, slicers, drill down, drill through, book marks, scheduled refresh,
+appspace, content pack, gateways, DAX etc...
+
+Working closely with customer team for their business requirements and needs.
+
+Answering adhoc requests and working on test defects and production issues. 
+
+I am having good understanding on Datawarehousing and Data Model fundamentals.
+
+Recently trained on Sql Server Business Inteligence and Azure as part of project updgradation.
+This is very brief about me.
